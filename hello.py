@@ -1,4 +1,4 @@
-age = input("How old are you? ")
+age = input("Quel âge as-tu? ")
 age = int(age)
 
 print("Hello World :)")
